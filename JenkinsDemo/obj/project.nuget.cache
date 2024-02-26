@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zR4VoB/u1GtxzaqREm2UEpv4dw4qzuvESSHm9A9eLUzGy6FNTWAsmUE2b5R65QG2IMmoKrC8v4mPcci/BWl43g==",
+  "success": true,
+  "projectFilePath": "D:\\Pdotnet\\Visual Studio\\Jenkins\\JenkinsDemo\\JenkinsDemo\\JenkinsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\priyadharshini.mu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\priyadharshini.mu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\priyadharshini.mu\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\priyadharshini.mu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\priyadharshini.mu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
